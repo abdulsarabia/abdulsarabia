@@ -34,3 +34,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/abdulsarabia/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsarabia&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
