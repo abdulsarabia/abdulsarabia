@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Karim Leite Sarabia
 =================================================================================================================================================
 
-Professional and enthusiast of the technology.<p>
+Professional and enthusiast of the technology.<>
 🔎 Lookin for my 1st experience in development like trainee or Jr
 📙 Studying Information Technology Management at Positivo College, Brazil
 🌍 I'm based in Londrina/PR Brazil
