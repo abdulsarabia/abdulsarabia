@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================================
 
 Professional and enthusiast of the technology.<br>
-🔎 Lookin for my 1st experience in development like trainee or Jr
-📙 Studying Information Technology Management at Positivo College, Brazil
-🌍 I'm based in Londrina/PR Brazil
-🧠 Currently learning about mobile development
-✉️ You can contact me at [abdulsarabia@gmail.com](mailto:abdulsarabia@gmail.com)
+🔎 Lookin for my 1st experience in development like trainee or Jr<br>
+📙 Studying Information Technology Management at Positivo College, Brazil<br>
+🌍 I'm based in Londrina/PR Brazil<br>
+🧠 Currently learning about mobile development<br>
+✉️ You can contact me at [abdulsarabia@gmail.com](mailto:abdulsarabia@gmail.com)<br>
 
 ### Socials
 
