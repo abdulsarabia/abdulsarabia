@@ -1,4 +1,4 @@
-Hi! My name is Abdul Karim Leite Sarabia
+Hi! My name is Abdul Karim Leite Sarabia 
 =================================================================================================================================================
 
 <img src="https://tenor.com/view/don%27t-panic-on-fire-laptopn-on-fire-burnout-pacnub-burnout-gif-2490076930962361986.gif" width="150" height="150"/>
@@ -23,5 +23,5 @@ Hi! My name is Abdul Karim Leite Sarabia
 <a href="https://github.com/abdulsarabia/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsarabia&layout=compact&langs_count=8&card_width=320" />
 </a>
-<img align="center" src="https://tenor.com/view/chart-monkey-chart-monkey-business-monkey-business-gif-19575000.gif" width="768" height="180"/>
+<img align="center"src="https://cdn.discordapp.com/attachments/967324918997995531/1323155398395691068/ezgif.com-animated-gif-maker.gif?ex=67990ebe&is=6797bd3e&hm=a9a5aacd6590eae8b19551440ff8d3bf6a5ef770d661d1487f54aaacf2906f0b&.gif" width="10" height="10" />
 
