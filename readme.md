@@ -15,5 +15,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/abdulsarabia/github-readme-stats">
   <img height=80% align="center" src="https://github-readme-stats.vercel.app/api?username=abdulsarabia" /></a>
 <a href="https://github.com/abdulsarabia/convoychat">
-  <img height=80% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsarabia&layout=compact&langs_count=8&card_width=320" />
+  <img height=90% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsarabia&layout=compact&langs_count=8&card_width=320" />
 </a>
