@@ -4,7 +4,7 @@ Hi! My name is Abdul Karim Leite Sarabia
 <img src="https://tenor.com/view/don%27t-panic-on-fire-laptopn-on-fire-burnout-pacnub-burnout-gif-2490076930962361986.gif" width="150" height="150"/>
 <h3>Professional and enthusiast of the technology.</h3>
 🔎 Lookin for my 1st experience in development like trainee or Jr<br>
-📙 Studying Information Technology Management at Positivo College, Brazil<br>
+📙 Studying IT Management at Positivo College, Brazil<br>
 🌍 I'm based in Londrina/PR Brazil<br>
 🧠 Currently learning about mobile development<br>
 🎮 I have a few hobbies, such as games, anime, cars/bikes and bodybuilding
